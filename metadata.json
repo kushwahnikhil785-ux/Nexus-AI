@@ -1,0 +1,8 @@
+{
+  "name": "Nexus AI Workspace",
+  "description": "A comprehensive AI workspace demonstrating text reasoning, live voice interaction, image generation, maps grounding, and data visualization using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
